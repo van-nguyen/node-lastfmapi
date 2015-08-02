@@ -1,1 +1,1 @@
-module.exports = require('./lib/lastfmapi')
+module.exports = require('./lib/lastfmapi');
